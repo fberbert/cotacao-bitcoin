@@ -7,7 +7,7 @@ Modo de uso:
 
 Exemplos:
 
-./bitcoin 0.35 (para Bitcoin)
-./bitcoin r100 (para Real)
-./bitcoin u100 (para Dólar)
+./bitcoin 0.35 (para Bitcoin) <br/>
+./bitcoin r100 (para Real) <br/>
+./bitcoin u100 (para Dólar) <br/>
 ./bitcoin c (para consultar a cotação atual)
